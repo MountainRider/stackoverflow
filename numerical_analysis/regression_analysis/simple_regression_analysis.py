@@ -1,1 +1,3 @@
-aW1wb3J0IHN5cwpwcmludCBzeXMuYXJndgoK
+import sys
+print sys.argv
+
